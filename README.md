@@ -38,7 +38,7 @@ My name is Ford Chung, and I am currently pursuing a degree in Computer Science 
 
 <div align="center">
 
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ford-Chung&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ford-Chung/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ford-Chung&rank_icon=github&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ford-Chung/github-readme-stats#gh-light-mode-only)
+  [![Fords's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ford-Chung&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ford-Chung/github-readme-stats#gh-dark-mode-only)
+[![Fords's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ford-Chung&rank_icon=github&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ford-Chung/github-readme-stats#gh-light-mode-only)
 
 </div>
