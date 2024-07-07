@@ -1,5 +1,5 @@
 <div align="center"> <h3> ☘️ Hello Everyone ☘️ </h3> <br>
-My name is Ford Chung, and I am currently pursuing a degree in Computer Science Majoring in Network and Information Security at De La Salle University Manila. I am a meticulous and a diligent student, and I will ensure that projects are finished on time and working perfectly. Although I may not be a fast learner, I compensate for it by working hard and paying attention to detail. Its a pleasure to meet you. I believe that being nervous and overthinking can be beneficial traits, as they reflect a careful and thorough approach to tasks.
+My name is Ford Chung, and I am currently pursuing a degree in Computer Science Majoring in Network and Information Security at De La Salle University Manila. I am a meticulous and a diligent student, and I will ensure that projects are finished on time and working perfectly. Although I may not be a fast learner, I compensate for it by working hard and paying attention to detail. I believe that being nervous and overthinking can be beneficial traits, as they reflect a careful and thorough approach to tasks. Its a pleasure to meet you.
 
 </div>
 
