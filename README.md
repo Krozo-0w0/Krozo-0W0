@@ -42,3 +42,11 @@ My name is Ford Chung, and I am currently pursuing a degree in Computer Science 
 [![Fords's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ford-Chung&rank_icon=github&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ford-Chung/github-readme-stats#gh-light-mode-only)
 
 </div>
+
+
+  <details>
+<summary>Get in Touch</summary>
+<br>
+  Email: fordchung4@gmail.com <br>
+  Linkedin: <a href="www.linkedin.com/in/ford-ainstein-chung-a62343305">Ford Ainstein Chung</a>
+</details>
