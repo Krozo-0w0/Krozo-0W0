@@ -18,7 +18,13 @@ As a child, I was very interested in how things work, especially how we use tech
 </center>
 </details>
 
+---
+
+
   <details>
+    
+
+
 <summary><h3>Education</h3></summary>
 <br>
     College (2022-2026) <br>
@@ -31,6 +37,7 @@ As a child, I was very interested in how things work, especially how we use tech
     - Northern Rizal Yorklin School  <br>
 </details>
 
+---
 <details>
 <summary><h3>Certificates</h3></summary>
   <ul>
@@ -41,6 +48,8 @@ As a child, I was very interested in how things work, especially how we use tech
   </li>
 
 </details>
+
+---
 <be>
   <details>
 <summary><h3>Career Goals</h3></summary>
@@ -59,6 +68,8 @@ As a child, I was very interested in how things work, especially how we use tech
   </ol>
 </details>
 
+---
+
 <details>
 <summary><h3>Support Needed</h3></summary>
 There are multiple skills that I need to Improve further, this includes
@@ -71,6 +82,8 @@ There are multiple skills that I need to Improve further, this includes
 Support in the form of a tutor, and communicating with different people. This will help me improve my overall ability to express my thoughts clearly and effectively in writing and speaking.
 <br><br>
 </details>
+
+---
 
 <div align="center">
   
