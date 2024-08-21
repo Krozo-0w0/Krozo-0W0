@@ -19,9 +19,6 @@ As a child, I was very interested in how things work, especially how we use tech
 </details>
 
 ---
-
-
-  <details>
     
 
 
