@@ -85,9 +85,3 @@ Support in the form of a tutor, and communicating with different people. This wi
 
 </div>
 
-
-  <details>
-<summary>Get in Touch</summary>
-<br>
-  Linkedin: <a href="www.linkedin.com/in/ford-ainstein-chung-a62343305">Ford Ainstein Chung</a>
-</details>
