@@ -1,7 +1,7 @@
 <div align="center"> <h3> ☘️ Hello Everyone ☘️ </h3> <br>
   
 ## About me
-My name is Ford Chung, and I am currently pursuing a degree in Computer Science, Majoring in Network and Information Security at De La Salle University Manila. I am a meticulous and diligent student, and I will ensure that projects are finished on time and working perfectly. Although I may not be a fast learner, I compensate for it by working hard and paying attention to detail. I believe that being nervous and overthinking can be beneficial traits, as they reflect a careful and thorough approach to tasks. I am deeply immersed in programming, using my analytical prowess to solve different problems. I feel fulfilled and satisfied when I solve problems and accomplish tasks. It's a pleasure to meet you.
+Hi everyone, I'm Krozo, and I am a meticulous and diligent student. I will ensure that projects are finished on time and working perfectly. Although I may not be a fast learner, I compensate for it by working hard and paying attention to detail. I believe that being nervous and overthinking can be beneficial traits, as they reflect a careful and thorough approach to tasks. I am deeply immersed in programming, using my analytical prowess to solve different problems. I feel fulfilled and satisfied when I solve problems and accomplish tasks. It's a pleasure to meet you.
 
 </div>
 
@@ -24,18 +24,6 @@ As a child, I was very interested in how things work, especially how we use tech
   <details>
     
 
-
-<summary><h3>Education</h3></summary>
-<br>
-    College (2022-2026) <br>
-    - De La Salle University <br>
-    - Computer Science Major in Network and Information Security (BSCS-NIS)  <br> <br>
-    Senior High School (2019 - 2022)  <br>
-    - Northern Rizal Yorklin School  <br> 
-    - Science, Technology, Engineering, and Mathematics (STEM) <br><br>
-    High School (2016-2019)  <br>
-    - Northern Rizal Yorklin School  <br>
-</details>
 
 ---
 <details>
@@ -101,6 +89,5 @@ Support in the form of a tutor, and communicating with different people. This wi
   <details>
 <summary>Get in Touch</summary>
 <br>
-  Email: fordchung4@gmail.com <br>
   Linkedin: <a href="www.linkedin.com/in/ford-ainstein-chung-a62343305">Ford Ainstein Chung</a>
 </details>
