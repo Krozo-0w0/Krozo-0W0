@@ -72,13 +72,13 @@ Support in the form of a tutor, and communicating with different people. This wi
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ford-Chung&layout=compact&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krozo-0w0g&layout=compact&theme=transparent)
 </div>
 
 <div align="center">
 
-  [![Fords's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ford-Chung&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ford-Chung/github-readme-stats#gh-dark-mode-only)
-[![Fords's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ford-Chung&rank_icon=github&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ford-Chung/github-readme-stats#gh-light-mode-only)
+  [![Fords's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Krozo-0w0&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Krozo-0w0/github-readme-stats#gh-dark-mode-only)
+[![Fords's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Krozo-0w0&rank_icon=github&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Krozo-0w0/github-readme-stats#gh-light-mode-only)
 
 </div>
 
