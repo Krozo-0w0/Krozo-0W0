@@ -72,7 +72,7 @@ Support in the form of a tutor, and communicating with different people. This wi
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krozo-0w0g&layout=compact&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krozo-0w0&layout=compact&theme=transparent)
 </div>
 
 <div align="center">
