@@ -20,9 +20,6 @@ As a child, I was very interested in how things work, especially how we use tech
 
 ---
     
-
-
----
 <details>
 <summary><h3>Certificates</h3></summary>
   <ul>
@@ -76,9 +73,6 @@ Support in the form of a tutor, and communicating with different people. This wi
 </div>
 
 <div align="center">
-
-  [![Fords's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Krozo-0w0&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Krozo-0w0/github-readme-stats#gh-dark-mode-only)
-[![Fords's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Krozo-0w0&rank_icon=github&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Krozo-0w0/github-readme-stats#gh-light-mode-only)
 
 </div>
 
